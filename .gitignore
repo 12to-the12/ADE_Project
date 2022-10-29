@@ -1,6 +1,2 @@
 # ignore ALL .pyc files
 *.pyc
-
-# ignore ALL files in ANY directory named temp
-.git/
-__pycache__/
